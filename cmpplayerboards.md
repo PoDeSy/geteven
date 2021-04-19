@@ -1,0 +1,1 @@
+4x player boards|3 areas with 2x2 grids|![image](playerboard.png)

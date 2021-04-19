@@ -1,10 +1,11 @@
-- [ ] list components
+- [x] list components
 
 
 
 
-Type|QTY|Color|Image
+QTY/Type|Details|Image
 ---|---|---|---
-{{component1.md}}
-
-
+{{cmpcentralboard.md}}  
+{{cmpplayerboards.md}}  
+{{cmptiles.md}}  
+{{cmpplayerdiscs.md}}  

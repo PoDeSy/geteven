@@ -1,0 +1,1 @@
+80x player markers|Small discs in 4 player colors|![image](SmartSelect_20210416-212313_DrawExpress.jpg)

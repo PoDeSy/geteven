@@ -1,1 +1,1 @@
-- [ ] describe your game
+Claim land to evenly fill your domain, gain allies and move your supporters from camps into a protected sanctuary. If you want to get ahead you have to Get Even.

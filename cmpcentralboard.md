@@ -1,0 +1,1 @@
+1x central board|map, market and score track|![image](centralboard.png)
