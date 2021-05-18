@@ -1,2 +1,2 @@
-- [ ] +geteven describe round structure
-{{title.md}} is played over x rounds
+In {{title.md}} players will take turns in clockwise order, starting with the player that most recently encountered a wild animal.  
+Play continues until all players have filled their player boards with 12 tiles and then moves into final scoring.

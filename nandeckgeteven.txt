@@ -1,0 +1,30 @@
+BORDER=RECTANGLE
+UNIT=INCH
+PAGE=8.5,11,PORTRAIT,HV
+DPI=300
+CARDSIZE=1.5,1.5
+
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/camel-head.png
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/elephant-head.png
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/lorc/frog.png
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/horse-head.png
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/lorc/monkey.png
+DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/rabbit.png
+
+c[comboanimal]3=c|e|f|h|m|r
+c[combocolor]3=#E52B50|#FF7E00|#FFCC33|#50C878|#4285F4|#7F8C8D
+[all]=1-{(comboanimal)}
+
+ICON=,c,camel-head.png
+ICON=,e,elephant-head.png
+ICON=,f,frog.png
+ICON=,h,horse-head.png
+ICON=,m,monkey.png
+ICON=,r,rabbit.png
+
+RECTANGLE=[all],0,0,.75,.75,STRINGSUB({combocolor?},1,7)
+RECTANGLE=[all],.75,0,.75,.75,STRINGSUB({combocolor?},1,7)
+RECTANGLE=[all],0,.75,.75,.75,STRINGSUB({combocolor?},8,7)
+RECTANGLE=[all](.75,.75,.75,.75,STRINGSUB({combocolor?},15,7))
+
+icons=[all],STRINGSUB({comboanimal?},1,1)[comboanimal],0,0,1.5,.1.5,.75,.75,0,PN

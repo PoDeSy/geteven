@@ -1,1 +1,1 @@
-1x central board|map, market and score track|![image](centralboard.png)
+1x central board|map, market and score track|![image](SmartSelect_20210424-180027_Photo Editor.jpg)
