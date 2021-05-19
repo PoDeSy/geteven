@@ -11,20 +11,21 @@ DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/horse-head.
 DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/lorc/monkey.png
 DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/rabbit.png
 
-c[comboanimal]3=c|e|f|h|m|r
-c[combocolor]3=#E52B50|#FF7E00|#FFCC33|#50C878|#4285F4|#7F8C8D
-[all]=1-{(comboanimal)}
+p[comboanimal]3=c|e|f|h|m|r
+p[combocolor]3=#E52B50|#F86734|#FFCC33|#27AE60|#4285F4|#7F8C8D
 
-ICON=,c,camel-head.png
-ICON=,e,elephant-head.png
-ICON=,f,frog.png
-ICON=,h,horse-head.png
-ICON=,m,monkey.png
-ICON=,r,rabbit.png
+ICON=1-240,c,camel-head.png
+ICON=1-240,e,elephant-head.png
+ICON=1-240,f,frog.png
+ICON=1-240,h,horse-head.png
+ICON=1-240,m,monkey.png
+ICON=1-240,r,rabbit.png
 
-RECTANGLE=[all],0,0,.75,.75,STRINGSUB({combocolor?},1,7)
-RECTANGLE=[all],.75,0,.75,.75,STRINGSUB({combocolor?},1,7)
-RECTANGLE=[all],0,.75,.75,.75,STRINGSUB({combocolor?},8,7)
-RECTANGLE=[all](.75,.75,.75,.75,STRINGSUB({combocolor?},15,7))
+RECTANGLE=1-120,0,0,.75,.75,#000000,STRINGSUB({combocolor?},1,7),.025
+RECTANGLE=1-120,.75,0,.75,.75,#000000,STRINGSUB({combocolor?},1,7),.025
+RECTANGLE=1-120,0,.75,.75,.75,#000000,STRINGSUB({combocolor?},8,7),.025
+RECTANGLE=1-120,.75,.75,.75,.75,#000000,STRINGSUB({combocolor?},15,7),.025
+icons=1-120,STRINGSUB({comboanimal?},1,1){comboanimal?},0,0,100%,100%,50%,50%,0,TP,center,center
 
-icons=[all],STRINGSUB({comboanimal?},1,1)[comboanimal],0,0,1.5,.1.5,.75,.75,0,PN
+RECTANGLE=121-240,0,0,1.5,1.5,#000000,STRINGSUB({combocolor?},1,7),.025
+icons=121-240,STRINGSUB({comboanimal?},1,1),0,0,100%,100%,100%,100%,0,TP,center,center
