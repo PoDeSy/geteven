@@ -12,7 +12,7 @@ DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/lorc/monkey.png
 DOWNLOAD = https://game-icons.net/icons/ffffff/000000/1x1/delapouite/rabbit.png
 
 p[comboanimal]3=c|e|f|h|m|r
-p[combocolor]3=#E52B50|#F86734|#FFCC33|#27AE60|#4285F4|#7F8C8D
+c[combocolor]3=#E52B50|#F86734|#FFCC33|#27AE60|#4285F4|#7F8C8D
 
 ICON=1-240,c,camel-head.png
 ICON=1-240,e,elephant-head.png
