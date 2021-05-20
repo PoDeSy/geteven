@@ -32,3 +32,4 @@ icons=121-240,STRINGSUB({comboanimal?},1,1),0,0,100%,100%,100%,100%,0,TP,center,
 
 DUPLEX=1-120,121-240
 PRINT=DUPLEX
+SAVEPDF=c:\Users\bryceadmn\Dropbox\nandeckout\geteventiles.pdf
