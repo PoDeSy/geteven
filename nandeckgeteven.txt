@@ -21,13 +21,13 @@ ICON=1-240,h,horse-head.png
 ICON=1-240,m,monkey.png
 ICON=1-240,r,rabbit.png
 
-RECTANGLE=1-120,0,0,.75,.75,#000000,STRINGSUB({combocolor?},15,7),.025
-RECTANGLE=1-120,.75,0,.75,.75,#000000,STRINGSUB({combocolor?},15,7),.025
+RECTANGLE=1-120,0,0,.75,.75,#000000,STRINGSUB({combocolor?},8,7),.025
+RECTANGLE=1-120,.75,0,.75,.75,#000000,STRINGSUB({combocolor?},8,7),.025
 RECTANGLE=1-120,0,.75,.75,.75,#000000,STRINGSUB({combocolor?},1,7),.025
-RECTANGLE=1-120,.75,.75,.75,.75,#000000,STRINGSUB({combocolor?},8,7),.025
+RECTANGLE=1-120,.75,.75,.75,.75,#000000,STRINGSUB({combocolor?},15,7),.025
 icons=1-120,STRINGSUB({comboanimal?},1,1){comboanimal?},0,0,100%,100%,50%,50%,0,TP,center,center
 
-RECTANGLE=121-240,0,0,1.5,1.5,#000000,STRINGSUB({combocolor?},15,7),.025
+RECTANGLE=121-240,0,0,1.5,1.5,#000000,STRINGSUB({combocolor?},8,7),.025
 icons=121-240,STRINGSUB({comboanimal?},1,1),0,0,100%,100%,100%,100%,0,TP,center,center
 
 DUPLEX=1-120,121-240
