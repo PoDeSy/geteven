@@ -29,3 +29,6 @@ icons=1-120,STRINGSUB({comboanimal?},1,1){comboanimal?},0,0,100%,100%,50%,50%,0,
 
 RECTANGLE=121-240,0,0,1.5,1.5,#000000,STRINGSUB({combocolor?},15,7),.025
 icons=121-240,STRINGSUB({comboanimal?},1,1),0,0,100%,100%,100%,100%,0,TP,center,center
+
+DUPLEX=1-120,121-240
+PRINT=DUPLEX
