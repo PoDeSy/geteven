@@ -1,0 +1,18 @@
+<mxfile host="app.diagrams.net" modified="2021-06-14T15:51:45.522Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="6t14eMf2fsG-FQAbL_CT" version="14.7.7" type="github">
+  <diagram id="e1FQ5fU_RL-TrvprSG7y" name="Page-1">
+    <mxGraphModel dx="248" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RqafkN_WLOTqjeksHtUg-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;comic=1;fillColor=none;image=https://i.imgur.com/D2KLsTb.png;" parent="1" vertex="1">
+          <mxGeometry x="80" y="30" width="220" height="224" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="test" id="_UXg0aCl5I1slX5RhnEO-1">
+          <mxCell style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/wplinh9c0rm812g/gold.png?raw=1;" vertex="1" parent="1">
+            <mxGeometry x="90" y="29.999999999999943" width="94" height="96.76" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
