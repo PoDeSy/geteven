@@ -1,16 +1,36 @@
-# {{title.md}}
-{{description.md}}  
-## Requirements
-{{requirements.md}}  
-## Components
+---
+style:file:///storage/emulated/0/Download/mytheme.css
+
+prerender: |
+   
+---
+{{title.md}}
+
+<div class="twoc">
+
+{{description.md}}
 {{components.md}} 
-## Setup 
+
+___
+
+</div><div class="twoc">
+
 {{setup.md}}  
-## How to Play
 {{roundstructure.md}}  
-## Turn Overview
+___
+
+</div><div class="twoc">
+
 {{turnoverview.md}}  
 ## A Turn in Detail
-{{turndetails.md}}  
+{{turnstep1.md}}  
+
+___
+
+</div><div class="twoc">
+
 ## At  the End of the Game 
 {{endgame.md}}  
+___
+
+</div>

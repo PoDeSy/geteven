@@ -1,0 +1,4 @@
+- rulebook examples
+- component spread
+  - board
+    - left/top corner fade to bg

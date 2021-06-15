@@ -1,9 +1,9 @@
-On your turn you will...  
-1. Take a land tile and place it on your player board, covering a request and activating a district.
-2. You and the player to your right will score the request by turning nomad tiles for points.
-3. You will declare either "animals" or "colors". for each evenly numbered set of the declared type in the activated district:
-    - Move a nomad to your arrival area.
-    - Place your marker in a camp
-4. If 4 adjacent camps have markers, the owning player(s) score and move their markers into the domed city's job spaces.
-5. Anytime during your turn, move a nomad from arriving to the departing area and activate a job occupied by 1 of your markers.
-6. Refill empty tile spaces and pass play to the left. Continue until all players have filled their boards.
+- [On a turn:]() On your turn you will...  
+- [Take a settler tile and cover request]()*1* Take a land tile and place it on your player board, covering a request and activating a district.
+- [You and player to your right will score requested nomads]()*2* You and the player to your right will score the request by turning in nomad tiles for points.
+- [Declare a feature and for each evenly numbered...]()*3* You will declare either "animals" or "colors". for each evenly numbered set of the declared type in the activated district you will do both:
+- [...do both:<br />-Take a nomad<br />-Place an apprentice]()&emsp;*3.1* Move a nomad to your arrival area.
+- &emsp;*3.2* Place your apprentice marker in a camp
+- [Player(s) score 3 adjacent filled camps and promote discs into The Library]()*4* If 3 adjacent camps have markers, the owning player(s) score and move their markers into the domed city's job spaces.
+- [Anytime: move nomads to the exhausted area to use your knowledge]()*5* Anytime during your turn, move a nomad from arriving to the departing area and activate a job occupied by 1 of your markers.
+- [Refill tiles and end turn]()*6* Refill empty tile spaces and pass play to the left. Continue until all players have filled their boards.

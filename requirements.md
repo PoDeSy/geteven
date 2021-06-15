@@ -1,8 +1,3 @@
-- [x] write play requirements
-
-
-|  |  |
-|--|--|
-|Number players|2 to 4|
-|Play time|45 min|
-|Audience|mid weight strategy|
+Players: 2 to 4
+Time: 45 min
+Mid weight strategy

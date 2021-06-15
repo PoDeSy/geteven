@@ -1,1 +1,2 @@
-Get Even
+- <br />[Players: 2 to 4<br />Time: 45 minutes<br />Med/light strategy](title.md)
+- # Get Even 
