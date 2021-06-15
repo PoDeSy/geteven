@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T06:57:09.002Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="vgHCD80ZQz-9AFAiWAa7" version="14.7.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-15T07:00:11.933Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="Z4KH_-O9Y3lgZOGBcF6Q" version="14.7.8" type="github" pages="2">
   <diagram id="cUsmYbsIQoXleu3BZiXn" name="Components">
     <mxGraphModel dx="248" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -66,11 +66,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_kHjS5HwIhv0Ph6iu" name="Ex take a tile">
-    <mxGraphModel dx="754" dy="1590" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="1590" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
       <root>
         <mxCell id="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="uEohSI7diEvnXm6D6p2L-1" value="Take" style="" parent="uEohSI7diEvnXm6D6p2L-0" />
-        <mxCell id="dw0rwsleEc50SECJPTvU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=none;image=https://www.dropbox.com/s/pf8sp4f23fy1f1y/board.png?raw=1;imageWidth=400;imageHeight=300;imageAlign=right;imageVerticalAlign=bottom;" parent="uEohSI7diEvnXm6D6p2L-1" vertex="1">
+        <mxCell id="dw0rwsleEc50SECJPTvU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=none;image=https://www.dropbox.com/s/pf8sp4f23fy1f1y/board.png?raw=1;imageWidth=400;imageHeight=300;imageAlign=right;imageVerticalAlign=bottom;strokeColor=none;" parent="uEohSI7diEvnXm6D6p2L-1" vertex="1">
           <mxGeometry x="-400" y="-900" width="120" height="106" as="geometry" />
         </mxCell>
         <mxCell id="46YjqKfpD_FIAhsMTich-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=20;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" parent="uEohSI7diEvnXm6D6p2L-1" vertex="1">
