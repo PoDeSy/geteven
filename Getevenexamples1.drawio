@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T06:49:38.178Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="Vh0jYCwc2Rmo0WI5wH4W" version="14.7.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-15T06:57:09.002Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="vgHCD80ZQz-9AFAiWAa7" version="14.7.8" type="github" pages="2">
   <diagram id="cUsmYbsIQoXleu3BZiXn" name="Components">
     <mxGraphModel dx="248" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="uEohSI7diEvnXm6D6p2L-1" value="Take" style="" parent="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="dw0rwsleEc50SECJPTvU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=none;image=https://www.dropbox.com/s/pf8sp4f23fy1f1y/board.png?raw=1;imageWidth=400;imageHeight=300;imageAlign=right;imageVerticalAlign=bottom;" parent="uEohSI7diEvnXm6D6p2L-1" vertex="1">
-          <mxGeometry x="-396" y="-865" width="120" height="115" as="geometry" />
+          <mxGeometry x="-400" y="-900" width="120" height="106" as="geometry" />
         </mxCell>
         <mxCell id="46YjqKfpD_FIAhsMTich-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=20;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" parent="uEohSI7diEvnXm6D6p2L-1" vertex="1">
           <mxGeometry x="-385" y="-858" width="30" height="30" as="geometry" />
@@ -84,13 +84,13 @@
         </mxCell>
         <mxCell id="bvyzTVvudUqAzsHrhotj-0" value="Place" parent="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="dw0rwsleEc50SECJPTvU-0" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=none;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;strokeColor=none;" parent="bvyzTVvudUqAzsHrhotj-0" vertex="1">
-          <mxGeometry x="-266" y="-858" width="133" height="120" as="geometry" />
+          <mxGeometry x="-242" y="-900" width="112" height="99" as="geometry" />
         </mxCell>
         <mxCell id="bvyzTVvudUqAzsHrhotj-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=20;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" parent="bvyzTVvudUqAzsHrhotj-0" vertex="1">
-          <mxGeometry x="-235" y="-825" width="35" height="35" as="geometry" />
+          <mxGeometry x="-217" y="-880" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bvyzTVvudUqAzsHrhotj-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/zondicons/20/hand-stop-128.png;fontSize=20;sketch=1;rotation=45;" parent="bvyzTVvudUqAzsHrhotj-0" vertex="1">
-          <mxGeometry x="-264" y="-803" width="60.11" height="60.11" as="geometry" />
+          <mxGeometry x="-253" y="-858" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
