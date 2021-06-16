@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T14:37:18.128Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="JWBTCV4RtgZRkQ2qiLUi" version="14.7.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:40:11.013Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="VKqNsV2not-u-QfeuGjm" version="14.7.8" type="github" pages="4">
   <diagram id="cUsmYbsIQoXleu3BZiXn" name="Components">
     <mxGraphModel dx="248" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -128,11 +128,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y6rEBLhvfHHCZS1JbYwP" name="Actions">
-    <mxGraphModel dx="124" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="4" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="XrfXxHT8-pmhcAxp2KCt-0" />
         <mxCell id="XrfXxHT8-pmhcAxp2KCt-1" parent="XrfXxHT8-pmhcAxp2KCt-0" />
-        <mxCell id="ezRyrYdlyUMBZ_8rAGHE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;imageVerticalAlign=bottom;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+        <mxCell id="ezRyrYdlyUMBZ_8rAGHE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;imageVerticalAlign=bottom;fillColor=none;strokeColor=none;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
           <mxGeometry x="9" y="5" width="91.13" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aBYUr434TOx8a1mLkQIV-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/9basm47156hjjo8/extileback.png?raw=1;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
