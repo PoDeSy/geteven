@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T15:45:30.414Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="nQVbWxLF3ooyhvW395Zx" version="14.7.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:37:18.128Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="JWBTCV4RtgZRkQ2qiLUi" version="14.7.8" type="github" pages="4">
   <diagram id="cUsmYbsIQoXleu3BZiXn" name="Components">
     <mxGraphModel dx="248" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_kHjS5HwIhv0Ph6iu" name="Ex take a tile">
-    <mxGraphModel dx="914" dy="1886" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="1590" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
       <root>
         <mxCell id="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="uEohSI7diEvnXm6D6p2L-1" value="Take" style="" parent="uEohSI7diEvnXm6D6p2L-0" />
@@ -115,14 +115,31 @@
         <mxCell id="FPtocdrqp9JsCkfCQJSN-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fillColor=none;image=https://www.dropbox.com/s/9basm47156hjjo8/extileback.png?raw=1;" parent="Am3xBZ7nVeLZ5ZNw9XXG-1" vertex="1">
           <mxGeometry x="-20" y="115" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vYZ17EcMp_23TpFa6qPx-0" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.5;dx=42.66;notch=18.1;feather=0.54;rotation=-90;fillColor=#FF0000;" vertex="1" parent="Am3xBZ7nVeLZ5ZNw9XXG-1">
+        <mxCell id="vYZ17EcMp_23TpFa6qPx-0" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.5;dx=42.66;notch=18.1;feather=0.54;rotation=-90;fillColor=#FF0000;" parent="Am3xBZ7nVeLZ5ZNw9XXG-1" vertex="1">
           <mxGeometry x="-33.75" y="72.5" width="66.25" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="vYZ17EcMp_23TpFa6qPx-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=14.97;feather=0.4;rotation=-90;fillColor=#FF0000;" vertex="1" parent="Am3xBZ7nVeLZ5ZNw9XXG-1">
+        <mxCell id="vYZ17EcMp_23TpFa6qPx-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=14.97;feather=0.4;rotation=-90;fillColor=#FF0000;" parent="Am3xBZ7nVeLZ5ZNw9XXG-1" vertex="1">
           <mxGeometry x="80.46" y="70.79" width="64.38" height="30.31" as="geometry" />
         </mxCell>
-        <mxCell id="vYZ17EcMp_23TpFa6qPx-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="Am3xBZ7nVeLZ5ZNw9XXG-1">
+        <mxCell id="vYZ17EcMp_23TpFa6qPx-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="Am3xBZ7nVeLZ5ZNw9XXG-1" vertex="1">
           <mxGeometry x="190" y="155" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y6rEBLhvfHHCZS1JbYwP" name="Actions">
+    <mxGraphModel dx="124" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="XrfXxHT8-pmhcAxp2KCt-0" />
+        <mxCell id="XrfXxHT8-pmhcAxp2KCt-1" parent="XrfXxHT8-pmhcAxp2KCt-0" />
+        <mxCell id="ezRyrYdlyUMBZ_8rAGHE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;imageVerticalAlign=bottom;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+          <mxGeometry x="9" y="5" width="91.13" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aBYUr434TOx8a1mLkQIV-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/9basm47156hjjo8/extileback.png?raw=1;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+          <mxGeometry x="20" y="21" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="aBYUr434TOx8a1mLkQIV-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/9basm47156hjjo8/extileback.png?raw=1;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+          <mxGeometry x="49" y="50" width="29" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
