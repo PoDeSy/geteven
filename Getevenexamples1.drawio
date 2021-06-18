@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T07:26:10.752Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="xN2-L2G7wh4bt4_qWTvh" version="14.7.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-18T08:11:47.017Z" agent="5.0 (Linux; Android 11; SAMSUNG SM-N981U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36" etag="0l1WrxQdUTjRrWYyxqQQ" version="14.7.10" type="github" pages="5">
   <diagram id="cUsmYbsIQoXleu3BZiXn" name="Components">
     <mxGraphModel dx="366" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" background="none" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R-E_kHjS5HwIhv0Ph6iu" name="Ex take a tile">
-    <mxGraphModel dx="648" dy="1590" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="1624" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
       <root>
         <mxCell id="uEohSI7diEvnXm6D6p2L-0" />
         <mxCell id="uEohSI7diEvnXm6D6p2L-1" value="Take" style="" parent="uEohSI7diEvnXm6D6p2L-0" />
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="npkCKzbvRsJSiZT_UGCX" name="Score Request">
-    <mxGraphModel dx="448" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="Am3xBZ7nVeLZ5ZNw9XXG-0" />
         <mxCell id="Am3xBZ7nVeLZ5ZNw9XXG-1" parent="Am3xBZ7nVeLZ5ZNw9XXG-0" />
@@ -128,18 +128,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y6rEBLhvfHHCZS1JbYwP" name="Actions">
-    <mxGraphModel dx="124" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="366" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="XrfXxHT8-pmhcAxp2KCt-0" />
         <mxCell id="XrfXxHT8-pmhcAxp2KCt-1" parent="XrfXxHT8-pmhcAxp2KCt-0" />
-        <mxCell id="ezRyrYdlyUMBZ_8rAGHE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;imageVerticalAlign=bottom;fillColor=none;strokeColor=none;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+        <mxCell id="ezRyrYdlyUMBZ_8rAGHE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;image=https://www.dropbox.com/s/jobrnx7mkyfnxt4/playerboard.png?raw=1;imageWidth=150;imageHeight=150;imageVerticalAlign=bottom;fillColor=none;strokeColor=none;" parent="XrfXxHT8-pmhcAxp2KCt-1" vertex="1">
           <mxGeometry x="9" y="5" width="91.13" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aBYUr434TOx8a1mLkQIV-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+        <mxCell id="aBYUr434TOx8a1mLkQIV-0" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" parent="XrfXxHT8-pmhcAxp2KCt-1" vertex="1">
           <mxGeometry x="20" y="21" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="aBYUr434TOx8a1mLkQIV-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" vertex="1" parent="XrfXxHT8-pmhcAxp2KCt-1">
+        <mxCell id="aBYUr434TOx8a1mLkQIV-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.dropbox.com/s/sazn1hvbwv4twq0/get%20even%20tiles_1.png?raw=1;" parent="XrfXxHT8-pmhcAxp2KCt-1" vertex="1">
           <mxGeometry x="49" y="50" width="29" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VaMEhgHHcHMs2J6sHCmx" name="setup">
+    <mxGraphModel dx="515" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="UriM3pyIHZcmsTaZyVrC-0" />
+        <mxCell id="UriM3pyIHZcmsTaZyVrC-1" parent="UriM3pyIHZcmsTaZyVrC-0" />
+        <mxCell id="BIFrkFtuL-rzrrSBSqTZ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png;gradientColor=#ffffff;" vertex="1" parent="UriM3pyIHZcmsTaZyVrC-1">
+          <mxGeometry x="-80" y="10" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
